@@ -12,7 +12,11 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
+<<<<<<< Updated upstream
 |2,0,1673454782,,"wq"
+=======
+|2,0,1673454885,,"wq"
+>>>>>>> Stashed changes
 
 # Search String History (newest to oldest):
 
@@ -34,16 +38,26 @@
 |3,0,3,1,1,0,1673452430,"<<<<<<< HEAD"
 
 # File marks:
+<<<<<<< Updated upstream
 '0  1  9  ~/stashfile
 |4,48,1,9,1673454782,"~/stashfile"
+=======
+'0  1  23  ~/stashfile
+|4,48,1,23,1673454885,"~/stashfile"
+>>>>>>> Stashed changes
 '1  2  0  ~/xyz
 |4,49,2,0,1673452467,"~/xyz"
 '2  2  0  ~/.gitignore
 |4,50,2,0,1673447090,"~/.gitignore"
 
 # Jumplist (newest first):
+<<<<<<< Updated upstream
 -'  1  9  ~/stashfile
 |4,39,1,9,1673454782,"~/stashfile"
+=======
+-'  1  23  ~/stashfile
+|4,39,1,23,1673454885,"~/stashfile"
+>>>>>>> Stashed changes
 -'  2  0  ~/xyz
 |4,39,2,0,1673452467,"~/xyz"
 -'  2  0  ~/xyz
@@ -72,11 +86,19 @@
 # History of marks within files (newest to oldest):
 
 > ~/stashfile
+<<<<<<< Updated upstream
 	*	1673454779	0
 	"	1	9
 	^	1	10
 	.	1	9
 	+	1	9
+=======
+	*	1673454883	0
+	"	1	23
+	^	1	24
+	.	1	24
+	+	1	24
+>>>>>>> Stashed changes
 
 > ~/xyz
 	*	1673452432	0
