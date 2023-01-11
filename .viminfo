@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1673447090,,"wq"
+|2,0,1673452467,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -23,18 +23,45 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+""1	LINE	0
+	>>>>>>> newbranch
+|3,1,1,1,1,0,1673452432,">>>>>>> newbranch"
+"2	LINE	0
+	=======
+|3,0,2,1,1,0,1673452431,"======="
+"3	LINE	0
+	<<<<<<< HEAD
+|3,0,3,1,1,0,1673452430,"<<<<<<< HEAD"
 
 # File marks:
-'0  2  0  ~/.gitignore
-|4,48,2,0,1673447090,"~/.gitignore"
+'0  2  0  ~/xyz
+|4,48,2,0,1673452467,"~/xyz"
+'1  2  0  ~/.gitignore
+|4,49,2,0,1673447090,"~/.gitignore"
 
 # Jumplist (newest first):
+-'  2  0  ~/xyz
+|4,39,2,0,1673452467,"~/xyz"
+-'  1  0  ~/xyz
+|4,39,1,0,1673452426,"~/xyz"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1673447090,"~/.gitignore"
 -'  2  0  ~/.gitignore
 |4,39,2,0,1673447090,"~/.gitignore"
 -'  1  0  ~/.gitignore
 |4,39,1,0,1673447049,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1673447049,"~/.gitignore"
 
 # History of marks within files (newest to oldest):
+
+> ~/xyz
+	*	1673452432	0
+	"	2	0
+	.	3	0
+	+	1	0
+	+	2	0
+	+	3	0
 
 > ~/.gitignore
 	*	1673447088	0
